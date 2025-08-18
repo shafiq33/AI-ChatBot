@@ -1,20 +1,19 @@
 import nltk
-nltk.download('punkt')
+#nltk.download('punkt_tab')
 
 from nltk.stem.porter import PorterStemmer
 stemmer = PorterStemmer()
 
-def tokensize(sentence):
-    return nltk.word_tokensize(sentence)
+def tokenize(sentence):
+    return nltk.word_tokenize(sentence)
 
 def stem(word):
-    pass
-
-
-
+    return stemmer.stem(word.lower())
 
 
 def bag_of_words(tokenized_sentence, all_words):
     pass
     
-
+words = ["Organize", "organizes", "organizing"]
+stemmed_words = [stem(w) for w in words]
+print(stemmed_words)
