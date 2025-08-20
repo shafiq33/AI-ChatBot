@@ -23,10 +23,10 @@ This chatbot uses a machine learning model to understand user messages and gener
 - **Event Listeners (JS)**  
 
 
-<h2 align="center">Demo</h2>
+<h2>Demo</h2>
 <img width="1906" height="908" alt="image" src="https://github.com/shafiq33/AI-ChatBot/blob/master/demo.png" />
 
-<h2 align="center">How to run</h2>
+<h2>How to run</h2>
   1. Clone the repository: 
    git clone https://github.com/yourusername/chat-app.git
    cd chat-app
