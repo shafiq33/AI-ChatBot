@@ -1,0 +1,41 @@
+<h1 align="center" >AI-ChatBot</h1>
+
+<p align="center">
+This chatbot uses a machine learning model to understand user messages and generate intelligent responses based on pre-defined intents. It leverages natural language processing techniques like tokenization, stemming, and bag-of-words to interpret and predict appropriate replies. The model is integrated into a web interface using HTML, CSS, JavaScript, and Flask, enabling real-time interaction directly on a website.
+</p>
+
+---
+
+<h2>Languages, Libraries, Tools, Frameworks, Concepts</h2>
+
+- **Python**
+- **JavaScript**
+- **Flask**
+- **HTML/CSS**
+- **Anaconda** 
+- **PyTorch**
+- **NumPy**  
+- **Natural Language Toolkit (nltk)**  
+- **Tokenizer, Stemming, Bag of Words**
+- **JSON**  
+- **REST APIs**
+- **Fetch API**  
+- **Event Listeners (JS)**  
+
+
+<h2 align="center">Demo</h2>
+<img width="1906" height="908" alt="image" src="https://github.com/shafiq33/AI-ChatBot/blob/master/demo.png" />
+
+<h2 align="center">How to run</h2>
+  1. Clone the repository: 
+   git clone https://github.com/yourusername/chat-app.git
+   cd chat-app
+
+2. Install dependencies:
+pip install torch flask nltk
+
+3. Run the Flask app:
+   python app.py
+
+4. Open your browser and go to:
+   http://127.0.0.1:5000
