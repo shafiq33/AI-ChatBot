@@ -33,7 +33,7 @@ This chatbot uses a machine learning model to understand user messages and gener
    cd chat-app
 
 <h3>2. Install dependencies:</h3>
-pip install torch flask nltk
+pip install torch flask nltk or conda install torch flask nltk in the terminal
 
 <h3>3. Must Run #nltk.download('punkt_tab') atleast once before you train the model:</h3>
    Uncomment on nltk_utils.py or type in the terminal python nltk.download('punkt_tab')
