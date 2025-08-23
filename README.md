@@ -35,14 +35,14 @@ This chatbot uses a machine learning model to understand user messages and gener
 <h3>2. Install dependencies:</h3>
 pip install torch flask nltk
 
-3. Must Run #nltk.download('punkt_tab') atleast once before you train the model:
-   Uncomment on nltk_utils.py. 
+<h3>3. Must Run #nltk.download('punkt_tab') atleast once before you train the model:</h3>
+   Uncomment on nltk_utils.py or type in the terminal python nltk.download('punkt_tab')
 
-4. Run the model:
+<h3>4. Run the model:</h3>
    python train.py
    
-5. Run the Flask app:
+<h3>5. Run the Flask app:</h3>
    python app.py
 
-6. Open your browser and go to:
+<h3>6. Open your browser and go to:</h3>
    http://127.0.0.1:5000
