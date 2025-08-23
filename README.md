@@ -20,18 +20,19 @@ This chatbot uses a machine learning model to understand user messages and gener
 - **JSON**  
 - **REST APIs**
 - **Fetch API**  
-- **Event Listeners (JS)**  
+- **Event Listeners (JS)**
+- **Deep Learning**  
 
 
 <h2>Demo</h2>
 <img width="1906" height="908" alt="image" src="https://github.com/shafiq33/AI-ChatBot/blob/master/demo.png" />
 
 <h2>How to run</h2>
-  1. Clone the repository: 
+  <h3>1. Clone the repository:</h3> 
    git clone https://github.com/yourusername/chat-app.git
    cd chat-app
 
-2. Install dependencies:
+<h3>2. Install dependencies:</h3>
 pip install torch flask nltk
 
 3. Must Run #nltk.download('punkt_tab') atleast once before you train the model:
