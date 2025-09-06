@@ -29,11 +29,11 @@ This chatbot uses a machine learning model to understand user messages and gener
 
 <h2>How to run</h2>
   <h3>1. Clone the repository:</h3> 
-   git clone https://github.com/yourusername/chat-app.git <br>
+   git clone https://github.com/shafiq33/chat-app.git <br>
    cd chat-app
 
 <h3>2. Install dependencies:</h3>
-pip install torch flask nltk or conda install torch flask nltk in the terminal
+pip install torch flask nltk <br> or <br> conda install torch flask nltk in the terminal
 
 <h3>3. Must Run #nltk.download('punkt_tab') atleast once before you train the model:</h3>
    Uncomment on nltk_utils.py or type in the terminal python nltk.download('punkt_tab')
