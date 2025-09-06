@@ -29,7 +29,7 @@ This chatbot uses a machine learning model to understand user messages and gener
 
 <h2>How to run</h2>
   <h3>1. Clone the repository:</h3> 
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/yourusername/chat-app.git <br>
    cd chat-app
 
 <h3>2. Install dependencies:</h3>
