@@ -15,7 +15,7 @@ This chatbot uses a machine learning model to understand user messages and gener
 - **Anaconda** 
 - **PyTorch**
 - **NumPy**  
-- **Natural Language Toolkit (nltk)**  
+- **Natural Language Toolkit (NLTK)**  
 - **Tokenizer, Stemming, Bag of Words**
 - **JSON**  
 - **REST APIs**
